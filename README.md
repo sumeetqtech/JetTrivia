@@ -52,16 +52,18 @@ JetTrivia is a modern Android trivia quiz application built with **Jetpack Compo
 🤝 Contributing
 Contributions are welcome! Here's how you can contribute:
 
-- Fork the repository.
-- Create a new branch for your feature or bug fix:
-```bash
-git checkout -b feature-name
+1. Fork the repository.
 
-- Commit your changes and push to your fork:
-```bash
-git push origin feature-name
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+   
+3. Commit your changes and push to your fork:
+   ```bash
+   git push origin feature-name
+   
+4. Create a pull request explaining your changes.
 
--Create a pull request explaining your changes.
 
 
 
