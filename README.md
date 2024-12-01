@@ -54,9 +54,11 @@ Contributions are welcome! Here's how you can contribute:
 
 - Fork the repository.
 - Create a new branch for your feature or bug fix:
-```git checkout -b feature-name```
+```bash
+git checkout -b feature-name
 - Commit your changes and push to your fork:
-```git push origin feature-name```
+```bash
+git push origin feature-name
 -Create a pull request explaining your changes.
 
 
