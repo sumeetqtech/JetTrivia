@@ -2,16 +2,12 @@
 
 JetTrivia is a modern Android trivia quiz application built with **Jetpack Compose**. The app showcases a clean and interactive UI while leveraging best practices in Android development. It is designed to provide a fun and educational experience for users.
 
----
-
 ## 🚀 Features
 
 - **Dynamic Quiz Content**: Trivia questions are dynamically loaded from an API.
 - **Elegant UI**: Designed with Jetpack Compose for a modern and responsive user interface.
 - **Performance Optimization**: Ensures smooth animations and fast responses.
 - **State Management**: Uses ViewModel and other Jetpack libraries for state management and lifecycle awareness.
-  
----
 
 ## 🛠️ Tech Stack
 
@@ -22,12 +18,9 @@ JetTrivia is a modern Android trivia quiz application built with **Jetpack Compo
 - **Networking**: Retrofit with OkHttp
 - **State Management**: Jetpack ViewModel
 
----
-
 ## 📸 Screenshots
+![Screenshot_20241201_115838](https://github.com/user-attachments/assets/b2231f38-756c-4e7c-a788-d2f1584481e2)
 
-
----
 
 ## 🔧 Setup and Installation
 
@@ -46,12 +39,12 @@ JetTrivia is a modern Android trivia quiz application built with **Jetpack Compo
 - Connect a physical or virtual device.
 - Run the app.
 
-# 📚 How to Use
+## 📚 How to Use
 - Launch the app on your Android device.
 - Start a trivia game by selecting a category or use default settings.
 - Answer the questions and see your score at the end of the quiz.
 
-# 🌟 Highlights
+## 🌟 Highlights
 - Clean codebase following Android best practices.
 - Fully customizable UI built with Jetpack Compose.
 - Suitable for learning Android Compose and MVVM architecture.
